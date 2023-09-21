@@ -1,33 +1,5 @@
 # z241842.github.io
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>z241842的个人主页</title>
-    <style>
-        * {
-            font-size: 30px;
-        }
-        h2 {
-            text-align: center;
-            color: red;
-        }
-        div {
-            color：white;
-            font-weight: 700;
-        }
-        table {
-            color：white;
-            margin: 0 auto;
-            text-align: center;
-        }
-        ol {
-            color：white;
-            line-height: 50px;
-        }
-    </style>
-</head>
+
 <body background="psc (13).jpg" 
                style="background-repeat:no-repeat
                background-attachment:fixed;
